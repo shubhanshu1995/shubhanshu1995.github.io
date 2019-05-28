@@ -16,4 +16,5 @@
     Data is a precious thing and will last longer than the systems themselves
                                               - Tim Berners-Lee, inventor of the World Wide Web
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>Django</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    We have considered a small Twitter network comprising oh WWE superstars & fans as nodes with directed edges from followers to followees, forming a multiple directed graph. The aim is to analyze the influence of nodes based on parameters such as indegree, distance between the influencer & the
+    corresponding followers, source of a tweet (celebrity, organization, etc,), number of retweets, number of mentions, and so on, and to study how different features affect the influence of user.
