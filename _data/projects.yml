@@ -16,5 +16,5 @@
     Data is a precious thing and will last longer than the systems themselves
                                               - Tim Berners-Lee, inventor of the World Wide Web
   description: | # this will include new lines to allow paragraphs
-    We have considered a small Twitter network comprising oh WWE superstars & fans as nodes with directed edges from followers to followees, forming a multiple directed graph. The aim is to analyze the influence of nodes based on parameters such as indegree, distance between the influencer & the
+    We have considered a small Twitter network comprising of WWE superstars & fans as nodes with directed edges from followers to followees, forming a multiple directed graph. The aim is to analyze the influence of nodes based on parameters such as indegree, distance between the influencer & the
     corresponding followers, source of a tweet (celebrity, organization, etc,), number of retweets, number of mentions, and so on, and to study how different features affect the influence of user.
