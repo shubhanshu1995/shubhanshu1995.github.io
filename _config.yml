@@ -3,30 +3,30 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Shubhanshu Singh
+title: Machine Learning Engineer
+email: mpsshubhanshu.123@gmail.com
+# website: www.github.com/sproogen/resume-theme
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  shubhanshu1995
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: shubhanshu._.singh
+linkedin_username: shubhanshu001
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Shubhanshu and I'm a machine learning engineer.I also have experience in making software and web apps.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>Django</mark>, <mark>Machine Learning</mark> and <mark>Binge watching Netflix</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in Machine Learning and software engineering some of my other interests and hobbies are:
+   - playing Guitar
+   - Quora addict
+   - Binge watching tv series
 
 # Footer
 footer_show_references: true
