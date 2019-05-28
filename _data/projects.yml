@@ -6,3 +6,14 @@
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     I started this project as a way if learning <mark>Django</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+- layout: top-middle
+  name: Finding Influencers in Twitter
+  link: github.com/shubhanshu1995
+  github: shubhanshu1995/shubhanshu1995.github.io
+  quote: >
+    Data is a precious thing and will last longer than the systems themselves
+                                              - Tim Berners-Lee, inventor of the World Wide Web
+  description: | # this will include new lines to allow paragraphs
+    I started this project as a way if learning <mark>Django</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
