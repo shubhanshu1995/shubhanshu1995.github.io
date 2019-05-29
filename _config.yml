@@ -24,7 +24,7 @@ linkedin_username: shubhanshu001
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Shubhanshu and I'm a machine learning engineer. I also have experience in making software and web apps.
+  Hi,I'm a machine learning engineer.I also have experience in making software and web apps.
 
   I am most skilled in: <mark>Python</mark> <mark>Django</mark> <mark>Machine Learning</mark> and <mark>Binge watching Netflix</mark>
 
