@@ -5,7 +5,7 @@
   quote: >
     Django: The Web framework for perfectionists with deadlines.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way of learning <mark>Django</mark> and it has since grown into a fully fledged app. I have learned many skills through this project
+    I started this project as a way of learning <mark>Django</mark> and it has since grown into a fully fledged app. I have learned many skills through this project such as file management, user authentication, database management etc.
 
 
 - layout: top-middle
