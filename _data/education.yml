@@ -1,15 +1,14 @@
-- layout: left
+- layout: top-middle
   name: National Institute of Technology Agartala
-- layout: right
   dates: 2014 - 2018
   qualification: Btech Computer Science, First Class
 
-- layout: left
+- layout: top-middle
   name: Translam Academy International Meerut
   dates: 2012 - 2013
   qualification: CBSE - AISSCE, Intermediate, 95.6%
 
-- layout: left
+- layout: top-middle
   name: Modern Public School Bhiwadi
   dates: 2010 - 2011
   qualification: CBSE - AISSE, High School, CGPA 10.0
