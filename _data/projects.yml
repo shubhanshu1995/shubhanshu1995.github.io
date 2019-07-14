@@ -1,14 +1,4 @@
 - layout: top-middle
-  name: Django Weather App
-  link: github.com/shubhanshu1995
-  github: shubhanshu1995/shubhanshu1995.github.io
-  quote: >
-    Django: The Web framework for perfectionists with deadlines.
-  description: | # this will include new lines to allow paragraphs
-    I started this project as a way of learning <mark>Django</mark> and it has since grown into a fully fledged app. I have learned many skills through this project such as file management, user authentication, database management etc.
-
-
-- layout: top-middle
   name: Finding Influencers in Twitter
   link: github.com/shubhanshu1995
   github: shubhanshu1995/shubhanshu1995.github.io
@@ -18,3 +8,22 @@
   description: | # this will include new lines to allow paragraphs
     We have considered a small Twitter network comprising of WWE superstars & fans as nodes with directed edges from followers to followees, forming a multiple directed graph. The aim is to analyze the influence of nodes based on parameters such as indegree, distance between the influencer & the
     corresponding followers, source of a tweet (celebrity, organization, etc,), number of retweets, number of mentions, and so on, and to study how different features affect the influence of user.
+
+- layout: top-middle
+  name: Image Prediction with client side neural network using Tensorflow.js
+  link: github.com/shubhanshu1995/Image-Prediction-with-client-side-neural-network-using-Tensorflow.js
+  github: shubhanshu1995/Image-Prediction-with-client-side-neural-network-using-Tensorflow.js
+  quote: >
+    TensorFlow.js is a library for developing and training ML models in JavaScript, and deploying in the browser or on Node.js.
+  description: | # this will include new lines to allow paragraphs
+    I have created a web application to choose an image and submit it to our model. The models used are MobileNet & VGG16. The app will give us back the top five highest predictions for the image from the imageNet classes.
+    For hosting the web app. I'm using Express. Express is a minimalistic framework very similar to flask but it's for node.js not for python
+
+- layout: top-middle
+  name: Django Weather App
+  link: github.com/shubhanshu1995
+  github: shubhanshu1995/shubhanshu1995.github.io
+  quote: >
+    Django: The Web framework for perfectionists with deadlines.
+  description: | # this will include new lines to allow paragraphs
+    I started this project as a way of learning <mark>Django</mark> and it has since grown into a fully fledged app. I have learned many skills through this project such as file management, user authentication, database management etc.
