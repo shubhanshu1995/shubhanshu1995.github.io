@@ -1,3 +1,3 @@
-# Data Science Portfolio:
+# My Portfolio:
 ## https://shubhanshu1995.github.io/
 
