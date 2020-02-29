@@ -30,14 +30,20 @@
 - layout: top-middle
   name: R-Contracts
   quote: >
-    R-Contracts- Legal business contracts life cycle product
+    R-Contracts: Legal business contracts life cycle product
   description: | # this will include new lines to allow paragraphs
     ● Worked closely with RIL legal teams; reduced contract processing time from 1 hour to under 10 minutes.
+
     ● Designed and deployed pipeline for information extraction; Pre-processed, analysed, trained NER and text classifier models to extract information from 200-300 pages long contracts with 75% accuracy. 
+    
     ● Implemented search engine and BERT based question-answering model trained on SQUAD dataset.
+    
     ● Trained One-Shot learning model to implement face recognition login system for web-cam.
+    
     ● Implemented face liveness detector by training classifier using image-depth prediction.
+    
     ● Optimized OCR processing time of scanned legacy contract pdfs by 70%.
+    
     ✔ Concepts & Tools: NLP, Word Embeddings, NER, BERT, DeepPavlov Siamese Network, Async, Multi-threading, Transfer Learning, Python, Keras, SpaCy, NLTK, Dlib, TensorFlow, OpenCV, Mongodb, Flask, Kubernetes.   
 
 - layout: top-middle
