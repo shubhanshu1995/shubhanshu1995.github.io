@@ -8,7 +8,7 @@
     corresponding followers, source of a tweet (celebrity, organization, etc,), number of retweets, number of mentions, and so on, and to study how different features affect the influence of user.
 
 - layout: top-middle
-  name: NLP made using Streamlit Framework
+  name: NLP App made using Streamlit Framework
   link: github.com/shubhanshu1995/Streamlit-Machine-Learning-Apps/tree/master/NLP%20App
   github: shubhanshu1995/Streamlit-Machine-Learning-Apps/tree/master/NLP%20App
   quote: >
