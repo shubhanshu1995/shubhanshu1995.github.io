@@ -26,7 +26,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm a machine learning engineer who loves to play with data. I also have experience in making software and web apps.
 
-  I am most skilled in: <mark>Python</mark> <mark>Django</mark> <mark>Machine Learning</mark> and <mark>Binge watching Netflix</mark>
+  I am most skilled in : <mark>Python</mark> <mark>C++</mark> <mark>Machine Learning</mark> and <mark>Data Structures and Algorithms</mark> and <mark>Django</mark>
+
+  AREA OF INTEREST : <mark>Natural Language Processing</mark> <mark>Deep Learning</mark> <mark>Computer Vision</mark> <mark>Machine Learning</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -45,8 +47,8 @@ more_content: | # this will include new lines to allow paragraphs
    - Cooking
    - Quora addict
    - Yoga Practitioner
-   - Elliot Alderson Fan ( Mr Robot tv series )
-   - Binge watching tv series
+   - Elliot Alderson Fan ( Mr Robot TV Series )
+   - Binge watching Netflix
 
 # Footer
 footer_show_references: false
