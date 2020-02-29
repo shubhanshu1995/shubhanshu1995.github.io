@@ -24,6 +24,10 @@
                 {%- include education.html -%}
             {%- endif -%}
 
+            {%- if site.data.trainings_and_certifications.size > 0 -%}
+                {%- include trainings_and_certifications.html -%}
+            {%- endif -%}
+
             {%- include more.html -%}
 
         </div>
