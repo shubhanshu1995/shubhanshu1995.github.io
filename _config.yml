@@ -20,6 +20,8 @@ linkedin_username: shubhanshu001
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
+darkmode: true
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
@@ -67,4 +69,3 @@ sass:
 plugins:
  - jekyll-seo-tag
 
-darkmode: true
