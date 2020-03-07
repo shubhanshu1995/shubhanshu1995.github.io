@@ -56,12 +56,12 @@
 
 - layout: top-middle
   name: Django Weather App
-  link: github.com/shubhanshu1995
-  github: shubhanshu1995/shubhanshu1995.github.io
+  link: github.com/shubhanshu1995/Django-Apps/tree/master/the_weather_project
+  github: shubhanshu1995/Django-Apps/tree/master/the_weather_project
   quote: >
     Django: The Web framework for perfectionists with deadlines.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way of learning <mark>Django</mark> and it has since grown into a fully fledged app. I have learned many skills through this project such as file management, user authentication, database management etc.
+    A weather app built with Django Framework. I started this project as a way of learning <mark>Django</mark> and it has since grown into a fully fledged app. I have used OpenWeatherMap API ( https://openweathermap.org/ ). This API returns the detail of current weather and forecasts in respective city.
 
 
 
