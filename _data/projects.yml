@@ -63,7 +63,14 @@
   description: | # this will include new lines to allow paragraphs
     A weather app built with Django Framework. I started this project as a way of learning <mark>Django</mark> and it has since grown into a fully fledged app. I have used OpenWeatherMap API ( https://openweathermap.org/ ). This API returns the detail of current weather and forecasts in respective city.
 
-
+- layout: top-middle
+  name: Django Social Media Website
+  link: github.com/shubhanshu1995/Django-Apps/tree/master/social_media_project
+  github: shubhanshu1995/Django-Apps/tree/master/social_media_project
+  quote: >
+    A Social Outer Space Fan Community site.
+  description: | # this will include new lines to allow paragraphs
+    A Social Media Website built with Django Framework. Users can create groups on various topics (e.g. SpaceX, NASA, Pluto, etc...). They can then create posts in the groups. They can also leave and join other groups.
 
 
 
