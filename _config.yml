@@ -23,12 +23,13 @@ linkedin_username: shubhanshu001
 darkmode: true
 
 
-image:
-  path: images/profile.jpg
-  height: 100
-  width: 100
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/profile.jpg
 
-  
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
