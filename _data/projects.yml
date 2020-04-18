@@ -9,7 +9,7 @@
 
 - layout: top-middle
   name: NLP App made using Streamlit Framework
-  link: github.com/shubhanshu1995/Streamlit-Machine-Learning-Apps/tree/master/NLP%20App
+  #link: github.com/shubhanshu1995/Streamlit-Machine-Learning-Apps/tree/master/NLP%20App
   github: shubhanshu1995/Streamlit-Machine-Learning-Apps/tree/master/NLP%20App
   quote: >
     Streamlit: An open-source app framework for Machine Learning and Data Science teams. Create beautiful data apps in hours, not weeks. All in pure Python. All for free.
@@ -18,7 +18,7 @@
 
 - layout: top-middle
   name: Cats and Dogs Image Classifier with CNN and Fine Tuning VGG16 model
-  link: github.com/shubhanshu1995/Deep-Learning-with-Keras/blob/master/Cats_%26_Dogs_Image_Classifier_with_CNN_and_Fine_tuning_VGG16.ipynb
+  #link: github.com/shubhanshu1995/Deep-Learning-with-Keras/blob/master/Cats_%26_Dogs_Image_Classifier_with_CNN_and_Fine_tuning_VGG16.ipynb
   github: shubhanshu1995/Deep-Learning-with-Keras/blob/master/Cats_%26_Dogs_Image_Classifier_with_CNN_and_Fine_tuning_VGG16.ipynb
   quote: >
     Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is ~ Andrew Ng
@@ -46,7 +46,7 @@
 
 - layout: top-middle
   name: Image Prediction with client side neural network using Tensorflow.js
-  link: github.com/shubhanshu1995/Image-Prediction-with-client-side-neural-network-using-Tensorflow.js
+  #link: github.com/shubhanshu1995/Image-Prediction-with-client-side-neural-network-using-Tensorflow.js
   github: shubhanshu1995/Image-Prediction-with-client-side-neural-network-using-Tensorflow.js
   quote: >
     TensorFlow.js is a library for developing and training ML models in JavaScript, and deploying in the browser or on Node.js.
@@ -56,7 +56,7 @@
 
 - layout: top-middle
   name: Django Weather App
-  link: github.com/shubhanshu1995/Django-Apps/tree/master/the_weather_project
+  #link: github.com/shubhanshu1995/Django-Apps/tree/master/the_weather_project
   github: shubhanshu1995/Django-Apps/tree/master/the_weather_project
   quote: >
     Django: The Web framework for perfectionists with deadlines.
@@ -65,7 +65,7 @@
 
 - layout: top-middle
   name: Django Social Media Website
-  link: github.com/shubhanshu1995/Django-Apps/tree/master/social_media_project
+  #link: github.com/shubhanshu1995/Django-Apps/tree/master/social_media_project
   github: shubhanshu1995/Django-Apps/tree/master/social_media_project
   quote: >
     A Social Outer Space Fan Community site.
