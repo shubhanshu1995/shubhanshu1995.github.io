@@ -17,7 +17,7 @@
      A Natural Language Processing App built with Streamlit Framework using SpaCy for Named Entity Recognition (NER) and tokenization, TextBlob for sentiment analysis and Gensim and Sumy for text Summarization
 
 - layout: top-middle
-  name: Cats and Dogs Image Classifier with CNN and Fine Tuning VGG16 model
+  name: Fine Tuning VGG16 model
   #link: github.com/shubhanshu1995/Deep-Learning-with-Keras/blob/master/Cats_%26_Dogs_Image_Classifier_with_CNN_and_Fine_tuning_VGG16.ipynb
   github: shubhanshu1995/Deep-Learning-with-Keras/blob/master/Cats_%26_Dogs_Image_Classifier_with_CNN_and_Fine_tuning_VGG16.ipynb
   quote: >
@@ -35,12 +35,6 @@
     ● Worked closely with RIL legal teams; reduced contract processing time from 1 hour to under 10 minutes.
 
     ● Designed and deployed pipeline for information extraction; Pre-processed, analysed, trained NER and text classifier models to extract information from 200-300 pages long contracts with 75% accuracy. 
-    
-    ● Implemented search engine and BERT based question-answering model trained on SQUAD dataset.
-    
-    ● Trained One-Shot learning model to implement face recognition login system for web-cam.
-    
-    ● Implemented face liveness detector by training classifier using image-depth prediction.
     
     ● Optimized OCR processing time of scanned legacy contract pdfs by 70%.   
 
@@ -71,8 +65,3 @@
     A Social Outer Space Fan Community site.
   description: | # this will include new lines to allow paragraphs
     A Social Media Website built with Django Framework. Users can create groups on various topics (e.g. SpaceX, NASA, Pluto, etc...). They can then create posts in the groups. They can also leave and join other groups.
-
-
-
-
-
