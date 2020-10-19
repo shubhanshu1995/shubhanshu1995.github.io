@@ -34,9 +34,8 @@ defaults:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm a machine learning engineer who loves to play with data. I also have experience in making software and web apps.
-
-  I am most skilled in : <mark>Python</mark> <mark>C++</mark> <mark>Machine Learning</mark> <mark>Data Structures and Algorithms</mark> and <mark>Django</mark>
+  Hi, I'm a machine learning engineer who loves to play with data. 2+ years experienced ML Engineer with proven success in building successful algorithms and predictive models. Passionate Engineer and thriving analyst with the ability to apply ML techniques & algorithm development to solve real-world industry problems.
+  I am most skilled in : <mark>Python</mark> <mark>C++</mark> <mark>Machine Learning</mark>
 
   AREA OF INTEREST : <mark>Natural Language Processing</mark> <mark>Deep Learning</mark> <mark>Computer Vision</mark> <mark>Machine Learning</mark>
 
