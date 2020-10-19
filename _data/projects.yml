@@ -30,7 +30,7 @@
 - layout: top-middle
   name: R-Contracts - Legal business contracts life cycle product
   quote: >
-    ● Concepts & Tools: NLP, Word Embeddings, NER, BERT, DeepPavlov Siamese Network, Async, Multi-threading, Transfer Learning, Python, Keras, SpaCy, NLTK, Dlib, TensorFlow, OpenCV, Mongodb, Flask, Kubernetes.
+    ● Concepts & Tools: NLP, Word Embeddings, NER, BERT, DeepPavlov, Transfer Learning, Python, Keras, SpaCy, NLTK, TensorFlow, OpenCV, Mongodb, Flask, Kubernetes.
   description: | # this will include new lines to allow paragraphs
     ● Worked closely with RIL legal teams; reduced contract processing time from 1 hour to under 10 minutes.
 
